@@ -1,0 +1,29 @@
+Share of recommendations that are cold items (cold users): 14.98%
+Share of recommendations that are cold items (warm users): 0.85%
+
+Cold users with zero hits: 473 of 1208
+
+--- Cold user #25 ---
+Known history : Program, The (1993) [Action|Drama]; Silence of the Lambs, The (1991) [Drama|Thriller]; Risky Business (1983) [Comedy]
+We recommended: Inside (1996) [Action]; Zero Kelvin (Kjærlighetens kjøtere) (1995) [Action]; Third World Cop (1999) [Action]; Bird of Prey (1996) [Action]; Master Ninja I (1984) [Action]
+User later liked: Father of the Bride Part II (1995); Sabrina (1995); Rudy (1993); G.I. Jane (1997); Last Picture Show, The (1971)
+
+--- Cold user #31 ---
+Known history : Jurassic Park (1993) [Action|Adventure|Sci-Fi]; As Good As It Gets (1997) [Comedy|Drama]; Moonstruck (1987) [Comedy]
+We recommended: When Harry Met Sally... (1989) [Comedy|Romance]; Ferris Bueller's Day Off (1986) [Comedy]; Fast Times at Ridgemont High (1982) [Comedy]; Associate, The (L'Associe)(1982) [Comedy]; Sixteen Candles (1984) [Comedy]
+User later liked: But I'm a Cheerleader (1999); Sixth Sense, The (1999); Legends of the Fall (1994); Shower (Xizhao) (1999); Green Mile, The (1999)
+
+--- Cold user #44 ---
+Known history : Gone with the Wind (1939) [Drama|Romance|War]; Sex, Lies, and Videotape (1989) [Drama]; Fisher King, The (1991) [Comedy|Drama|Romance]
+We recommended: Godfather, The (1972) [Action|Crime|Drama]; Godfather: Part II, The (1974) [Action|Crime|Drama]; Aliens (1986) [Action|Sci-Fi|Thriller|War]; Rocky III (1982) [Action|Drama]; Glory (1989) [Action|Drama|War]
+User later liked: Toy Story (1995); Men in Black (1997); American President, The (1995); Leaving Las Vegas (1995); Fabulous Baker Boys, The (1989)
+
+--- Cold user #68 ---
+Known history : Forrest Gump (1994) [Comedy|Romance|War]; Indiana Jones and the Last Crusade (1989) [Action|Adventure]; Saving Private Ryan (1998) [Action|Drama|War]
+We recommended: Back to the Future (1985) [Comedy|Sci-Fi]; Ferris Bueller's Day Off (1986) [Comedy]; When Harry Met Sally... (1989) [Comedy|Romance]; Big (1988) [Comedy|Fantasy]; Ghostbusters (1984) [Comedy|Horror]
+User later liked: Secrets & Lies (1996); Three Kings (1999); Like Water for Chocolate (Como agua para chocolate) (1992); Cider House Rules, The (1999); Titanic (1997)
+
+--- Cold user #69 ---
+Known history : Star Wars: Episode IV - A New Hope (1977) [Action|Adventure|Fantasy|Sci-Fi]; North by Northwest (1959) [Drama|Thriller]; Go (1999) [Crime]
+We recommended: Fargo (1996) [Crime|Drama|Thriller]; Titanic (1997) [Drama|Romance]; Green Mile, The (1999) [Drama|Thriller]; GoodFellas (1990) [Crime|Drama]; Letter From Death Row, A (1998) [Crime|Drama]
+User later liked: Sixth Sense, The (1999); X-Men (2000); Anna and the King (1999); Stuart Little (1999); Prince of Egypt, The (1998)
